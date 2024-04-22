@@ -1,0 +1,7 @@
+fastapi
+asyncpg
+sqlalchemy
+sqlalchemy-asyncio
+uvicorn
+googleoauth
+google-auth-oauthlib
